@@ -22,6 +22,12 @@ package org.japo.java.main;
 public class Main {
 
     public static void main(String[] args) {
+        //Añadimos el ¡Hola Mundo! de los comentarios en una línea
         
+        /*Añadimos el segundo comentario más largo con la única intención
+        de ocupar espacio para un salto de línea y anunciar que no habrá un 
+        ¡Hola Mundo! como tal por salida de consola. Thanks!*/
+        
+        System.out.println("!Hi, There!");
     }
 }
